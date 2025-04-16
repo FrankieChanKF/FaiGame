@@ -2,7 +2,7 @@ const cacheName = "DefaultCompany-FaiGamePlayID-0.2";
 const contentToCache = [
     "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
     "Build/4697eef64ddccd5123e86806a6d199d5.framework.js",
-    "Build/8bd7d6da32c3e733c6d0bd729501af28.data",
+    "Build/a39b04fc1afe298405eff84a985c6ebf.data",
     "Build/a08f63f7dbb81825cadf0047575a4160.wasm",
     "TemplateData/style.css"
 
